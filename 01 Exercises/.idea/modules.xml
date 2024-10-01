@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/01 Exercises.iml" filepath="$PROJECT_DIR$/.idea/01 Exercises.iml" />
+      <module fileurl="file://$PROJECT_DIR$/01.IlkDers/01.IlkDers.iml" filepath="$PROJECT_DIR$/01.IlkDers/01.IlkDers.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Hello World/Hello World.iml" filepath="$PROJECT_DIR$/Hello World/Hello World.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HelloWorld/HelloWorld.iml" filepath="$PROJECT_DIR$/HelloWorld/HelloWorld.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Konsolda Yazma/Konsolda Yazma.iml" filepath="$PROJECT_DIR$/Konsolda Yazma/Konsolda Yazma.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Oppgave 1 og videre/Oppgave 1 og videre.iml" filepath="$PROJECT_DIR$/Oppgave 1 og videre/Oppgave 1 og videre.iml" />
+      <module fileurl="file://$PROJECT_DIR$/javaLesson/javaLesson.iml" filepath="$PROJECT_DIR$/javaLesson/javaLesson.iml" />
+      <module fileurl="file://$PROJECT_DIR$/variabler1/variabler1.iml" filepath="$PROJECT_DIR$/variabler1/variabler1.iml" />
+    </modules>
+  </component>
+</project>

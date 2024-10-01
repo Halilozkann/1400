@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="75bd1474-c001-4f05-90c8-c5ce56db217d" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../01 YouTube/Enes Hoca/src/Bil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../01 YouTube/Enes Hoca/src/Eksempel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../01 YouTube/Enes Hoca/src/Metodlar/Eksemple.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../01 YouTube/Enes Hoca/src/Metodlar/LogIn.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../01 YouTube/Enes Hoca/src/Metodlar/Return.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../01 YouTube/Enes Hoca/src/_33_Diziler_Arrays.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../01 YouTube/Enes Hoca/src/_34_int_char_double.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../01 YouTube/Enes Hoca/src/_35_Kullanicidan_dizi_elemani_alma.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../01 YouTube/Enes Hoca/src/_36_Foreach_Dongusu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../01 YouTube/Enes Hoca/src/_38_Dizi_Asal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/01.IlkDers/01.IlkDers.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hello World/Hello World.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HelloWorld/HelloWorld.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Konsolda Yazma/Konsolda Yazma.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Oppgave 1 og videre/Oppgave 1 og videre.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/javaLesson/javaLesson.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/variabler1/variabler1.iml" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 8
+}]]></component>
+  <component name="ProjectId" id="2mqEekziBSCwQA6OWehaCOe2ig0" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/hekto/OneDrive/Desktop/1400/1400 Ders Pratikleri"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="75bd1474-c001-4f05-90c8-c5ce56db217d" name="Changes" comment="" />
+      <created>1727795803383</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1727795803383</updated>
+    </task>
+    <servers />
+  </component>
+</project>
